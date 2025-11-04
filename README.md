@@ -63,3 +63,7 @@ Results are automatically saved to `results/web_last_result.json`
 ## License
 
 MIT License
+
+
+## You can now try the program at the following link to test the algorithm's functionality :
+      `https://bia601-eher.onrender.com`
